@@ -1,0 +1,15 @@
+img{
+  width:267px;
+  height:257px;
+  }
+  .App{
+    background-image: url('https://www.bollywoodfever.co.in/wp-content/uploads/2022/05/background-6.jpg');
+  }
+  
+  h3{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  h2{
+    text-align: end;
+  }
